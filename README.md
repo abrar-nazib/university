@@ -4,4 +4,4 @@
 
 ### 1-1 Routine
 
-[1-1 Routine](routine/README.md)
+![1-1 Routine](1-1/routine.png)
